@@ -1,0 +1,9 @@
+<package format="2">
+  <name>test</name>
+  <version>0.0.0</version>
+  <description>...</description>
+  <maintainer email="m@m.com">m</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>foo</buildtool_depend>
+  <export><build_type>foo</build_type></export>
+</package>
